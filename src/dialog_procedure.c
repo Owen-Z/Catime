@@ -17,6 +17,12 @@
 #include <windowsx.h>
 #include <shellapi.h>
 
+
+
+
+
+
+
 // 函数声明
 void ParseContributorInfo(const wchar_t* contributor, wchar_t* name, size_t nameSize, wchar_t* url, size_t urlSize);
 
